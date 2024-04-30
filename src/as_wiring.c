@@ -57,10 +57,11 @@ void init(void)
 }
 
 // replace main() from Arduino core
+/*
 int main(void)
 {
     init();
     setup();
     while(1) loop();
-}
+}*/
 
